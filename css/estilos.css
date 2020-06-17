@@ -1,0 +1,65 @@
+
+body{
+  font-family: "Open Sans", sans-serif;
+}
+#body-home{
+  background-image: url("../img/emilia-home.jpg");
+}
+#body-about{
+  background-image: url("../img/emilia-about.jpg");
+}
+#body-music{
+  background-image: url("../img/emilia-music-top.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+}
+.fondo-derecha{
+  background-repeat: no-repeat;
+  background-size: 1000px;
+  background-position-x: right;
+  background-position-y: top;
+}
+a{
+  text-decoration: none;
+  color: #666;
+}
+.iconosRS{
+  width: 1.5%;
+  height: 1.5%;
+}
+.lista-inline li{
+  display: inline;
+}
+ul.menu-derecha {
+    text-align: right;
+    line-height: 40px;
+}
+#nombre{
+  font-family: "Work Sans", sans-serif;
+  font-size: 40px;
+  letter-spacing: 5px;
+  color: #666;
+}
+h1{
+  font-family: "Raleway", sans-serif;
+  font-size: 80px;
+}
+.fondo-transparente{
+  background-color: rgba(255, 255, 255, 0.5);
+}
+li{
+  list-style: none;
+  line-height: 40px;
+}
+.autor{
+  font-family: "Raleway", sans-serif;
+  color: #7AAEAD;
+}
+.comentario{
+  font-family: "Raleway", sans-serif;
+  font-size: 30px;
+  color: #7AAEAD;
+}
+ol{
+  list-style-type: decimal-leading-zero;
+}
